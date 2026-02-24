@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">#FFFF00</color>
+    <color name="cardColor">#FF00FF</color>
+    <color name="primary">#6A5ACD</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="textColor">#FFFFFF</color>
+</resources>
